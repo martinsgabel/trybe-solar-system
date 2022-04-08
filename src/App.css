@@ -1,3 +1,22 @@
 .App {
   text-align: center;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {  
+  background-image: url(images/background.png);
+  color: rgb(221, 221, 221);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.maindiv {
+  width: 800px;
+}

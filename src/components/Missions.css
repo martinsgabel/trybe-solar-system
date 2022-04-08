@@ -1,0 +1,29 @@
+.missions {
+  border: 1px solid rgba(194, 194, 194, 0.514);
+  border-radius: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+
+.mission {
+  border: 1px solid rgba(194, 194, 194, 0.514);
+  border-radius: 10px;
+  margin: 15px;
+  width: 220px;
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.mission p {
+  padding: 0px 7px 7px 7px;
+}
+
+h3 {
+  text-align: center;
+  border-bottom: 1px solid rgba(194, 194, 194, 0.514);
+  padding: 5px 0px;
+  margin-bottom: 5px;
+}
